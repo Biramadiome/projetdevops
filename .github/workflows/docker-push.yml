@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: birama2001/basic-docker-project 
+          tags: birama2001/mon-application
